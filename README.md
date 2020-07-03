@@ -3,11 +3,11 @@ Simple instagram home page
 
 
 Featrues:
--SQLite DataBase \\n
--Access permission
--Bottom Navigation view
--Nav controler for fragments
+SQLite DataBase 
+_Access permission
+_Bottom Navigation view
+_Nav controler for fragments
 _Exact font
 _Exclusive Helper
--Recycler view
--menu actionbar
+_Recycler view
+_menu actionbar
